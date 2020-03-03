@@ -143,4 +143,4 @@
 
 ### pip install fake_useragent 失败多尝试几次
 
-[VPN地址](http://jndtuiguangmoon.xyz/?channel=google)
+[wkhtmltopdf下载](https://wkhtmltopdf.org/downloads.html)
