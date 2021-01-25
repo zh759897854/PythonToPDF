@@ -141,6 +141,6 @@
   ```
 
 
-### pip install fake_useragent 失败多尝试几次
+### pip install fake_useragent 失败多尝试几次 删除后重试
 
 [wkhtmltopdf下载](https://wkhtmltopdf.org/downloads.html)
